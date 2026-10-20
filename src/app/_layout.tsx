@@ -9,7 +9,8 @@ export default function RootLayout() {
       options={{
         title: "Home",
         headerShown: false,
-        tabBarIcon: ({color})=><MaterialCommunityIcons name="home" size={24}
+        tabBarIcon: ({color})=>
+        <MaterialCommunityIcons name="home" size={24}
         color={color} />
       }}
       />
