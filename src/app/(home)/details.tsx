@@ -10,7 +10,7 @@ export default function DetailsScreen() {
             <Text style={styles.title}>Digital ID Card</Text>
 
             <Image
-                source={require('C:\Users\Lenovo\Desktop\LAB_03\StudentHub\assets\images\user.png')}
+                source={require('C:\\Users\\Lenovo\\Desktop\\LAB_03\\StudentHub\\assets\\images\\user.png')}
                 style={styles.image}
             />
 
